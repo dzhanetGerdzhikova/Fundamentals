@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Followers\bin\Debug\netcoreapp3.1\Followers.exe
+C:\Users\viole\source\repos\Followers\bin\Debug\netcoreapp3.1\Followers.deps.json
+C:\Users\viole\source\repos\Followers\bin\Debug\netcoreapp3.1\Followers.runtimeconfig.json
+C:\Users\viole\source\repos\Followers\bin\Debug\netcoreapp3.1\Followers.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Followers\bin\Debug\netcoreapp3.1\Followers.dll
+C:\Users\viole\source\repos\Followers\bin\Debug\netcoreapp3.1\Followers.pdb
+C:\Users\viole\source\repos\Followers\obj\Debug\netcoreapp3.1\Followers.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Followers\obj\Debug\netcoreapp3.1\Followers.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Followers\obj\Debug\netcoreapp3.1\Followers.AssemblyInfo.cs
+C:\Users\viole\source\repos\Followers\obj\Debug\netcoreapp3.1\Followers.dll
+C:\Users\viole\source\repos\Followers\obj\Debug\netcoreapp3.1\Followers.pdb

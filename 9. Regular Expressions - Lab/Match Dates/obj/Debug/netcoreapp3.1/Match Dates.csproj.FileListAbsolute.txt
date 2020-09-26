@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.exe
+C:\Users\viole\source\repos\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.deps.json
+C:\Users\viole\source\repos\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.json
+C:\Users\viole\source\repos\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\viole\source\repos\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\viole\source\repos\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfo.cs
+C:\Users\viole\source\repos\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\viole\source\repos\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.pdb

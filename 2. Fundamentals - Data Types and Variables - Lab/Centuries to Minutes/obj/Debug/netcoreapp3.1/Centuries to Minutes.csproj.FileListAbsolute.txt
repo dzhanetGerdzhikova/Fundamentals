@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.exe
+C:\Users\viole\source\repos\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.deps.json
+C:\Users\viole\source\repos\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.json
+C:\Users\viole\source\repos\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\viole\source\repos\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\viole\source\repos\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\viole\source\repos\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\viole\source\repos\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.pdb

@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Battle Manager\obj\Debug\netcoreapp3.1\Battle Manager.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Battle Manager\obj\Debug\netcoreapp3.1\Battle Manager.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Battle Manager\obj\Debug\netcoreapp3.1\Battle Manager.AssemblyInfo.cs
+C:\Users\viole\source\repos\Battle Manager\bin\Debug\netcoreapp3.1\Battle Manager.exe
+C:\Users\viole\source\repos\Battle Manager\bin\Debug\netcoreapp3.1\Battle Manager.deps.json
+C:\Users\viole\source\repos\Battle Manager\bin\Debug\netcoreapp3.1\Battle Manager.runtimeconfig.json
+C:\Users\viole\source\repos\Battle Manager\bin\Debug\netcoreapp3.1\Battle Manager.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Battle Manager\bin\Debug\netcoreapp3.1\Battle Manager.dll
+C:\Users\viole\source\repos\Battle Manager\bin\Debug\netcoreapp3.1\Battle Manager.pdb
+C:\Users\viole\source\repos\Battle Manager\obj\Debug\netcoreapp3.1\Battle Manager.dll
+C:\Users\viole\source\repos\Battle Manager\obj\Debug\netcoreapp3.1\Battle Manager.pdb

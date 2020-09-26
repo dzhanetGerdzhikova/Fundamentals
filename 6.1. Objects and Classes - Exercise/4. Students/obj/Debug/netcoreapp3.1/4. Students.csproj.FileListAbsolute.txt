@@ -1,0 +1,10 @@
+C:\Users\viole\source\repos\4. Students\bin\Debug\netcoreapp3.1\4. Students.exe
+C:\Users\viole\source\repos\4. Students\bin\Debug\netcoreapp3.1\4. Students.deps.json
+C:\Users\viole\source\repos\4. Students\bin\Debug\netcoreapp3.1\4. Students.runtimeconfig.json
+C:\Users\viole\source\repos\4. Students\bin\Debug\netcoreapp3.1\4. Students.runtimeconfig.dev.json
+C:\Users\viole\source\repos\4. Students\bin\Debug\netcoreapp3.1\4. Students.dll
+C:\Users\viole\source\repos\4. Students\bin\Debug\netcoreapp3.1\4. Students.pdb
+C:\Users\viole\source\repos\4. Students\obj\Debug\netcoreapp3.1\4. Students.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\4. Students\obj\Debug\netcoreapp3.1\4. Students.AssemblyInfo.cs
+C:\Users\viole\source\repos\4. Students\obj\Debug\netcoreapp3.1\4. Students.dll
+C:\Users\viole\source\repos\4. Students\obj\Debug\netcoreapp3.1\4. Students.pdb

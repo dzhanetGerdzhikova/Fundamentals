@@ -1,0 +1,10 @@
+C:\Users\viole\source\repos\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.exe
+C:\Users\viole\source\repos\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.deps.json
+C:\Users\viole\source\repos\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.json
+C:\Users\viole\source\repos\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\viole\source\repos\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\viole\source\repos\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfo.cs
+C:\Users\viole\source\repos\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\viole\source\repos\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.pdb

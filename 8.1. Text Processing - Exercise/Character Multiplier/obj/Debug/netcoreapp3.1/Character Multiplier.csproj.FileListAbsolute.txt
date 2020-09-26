@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.exe
+C:\Users\viole\source\repos\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.deps.json
+C:\Users\viole\source\repos\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.runtimeconfig.json
+C:\Users\viole\source\repos\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.dll
+C:\Users\viole\source\repos\Character Multiplier\bin\Debug\netcoreapp3.1\Character Multiplier.pdb
+C:\Users\viole\source\repos\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.AssemblyInfo.cs
+C:\Users\viole\source\repos\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.dll
+C:\Users\viole\source\repos\Character Multiplier\obj\Debug\netcoreapp3.1\Character Multiplier.pdb

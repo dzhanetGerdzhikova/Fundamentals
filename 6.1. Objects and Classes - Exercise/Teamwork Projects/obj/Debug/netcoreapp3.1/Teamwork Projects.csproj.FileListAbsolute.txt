@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.exe
+C:\Users\viole\source\repos\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.deps.json
+C:\Users\viole\source\repos\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.runtimeconfig.json
+C:\Users\viole\source\repos\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.dll
+C:\Users\viole\source\repos\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.pdb
+C:\Users\viole\source\repos\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfo.cs
+C:\Users\viole\source\repos\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.dll
+C:\Users\viole\source\repos\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.pdb

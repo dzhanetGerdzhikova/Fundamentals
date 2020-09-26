@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.exe
+C:\Users\viole\source\repos\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.deps.json
+C:\Users\viole\source\repos\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.runtimeconfig.json
+C:\Users\viole\source\repos\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.dll
+C:\Users\viole\source\repos\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.pdb
+C:\Users\viole\source\repos\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.AssemblyInfo.cs
+C:\Users\viole\source\repos\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.dll
+C:\Users\viole\source\repos\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.pdb

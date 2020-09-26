@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\The Isle of Man TT Race\bin\Debug\netcoreapp3.1\The Isle of Man TT Race.exe
+C:\Users\viole\source\repos\The Isle of Man TT Race\bin\Debug\netcoreapp3.1\The Isle of Man TT Race.deps.json
+C:\Users\viole\source\repos\The Isle of Man TT Race\bin\Debug\netcoreapp3.1\The Isle of Man TT Race.runtimeconfig.json
+C:\Users\viole\source\repos\The Isle of Man TT Race\bin\Debug\netcoreapp3.1\The Isle of Man TT Race.runtimeconfig.dev.json
+C:\Users\viole\source\repos\The Isle of Man TT Race\bin\Debug\netcoreapp3.1\The Isle of Man TT Race.dll
+C:\Users\viole\source\repos\The Isle of Man TT Race\bin\Debug\netcoreapp3.1\The Isle of Man TT Race.pdb
+C:\Users\viole\source\repos\The Isle of Man TT Race\obj\Debug\netcoreapp3.1\The Isle of Man TT Race.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\The Isle of Man TT Race\obj\Debug\netcoreapp3.1\The Isle of Man TT Race.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\The Isle of Man TT Race\obj\Debug\netcoreapp3.1\The Isle of Man TT Race.AssemblyInfo.cs
+C:\Users\viole\source\repos\The Isle of Man TT Race\obj\Debug\netcoreapp3.1\The Isle of Man TT Race.dll
+C:\Users\viole\source\repos\The Isle of Man TT Race\obj\Debug\netcoreapp3.1\The Isle of Man TT Race.pdb

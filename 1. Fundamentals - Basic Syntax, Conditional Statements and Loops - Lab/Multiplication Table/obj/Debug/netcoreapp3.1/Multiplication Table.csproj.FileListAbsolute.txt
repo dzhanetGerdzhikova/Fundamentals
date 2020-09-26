@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb

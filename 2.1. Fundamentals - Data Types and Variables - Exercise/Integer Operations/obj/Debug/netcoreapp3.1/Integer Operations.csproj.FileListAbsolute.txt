@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.exe
+C:\Users\viole\source\repos\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.deps.json
+C:\Users\viole\source\repos\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.json
+C:\Users\viole\source\repos\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.dll
+C:\Users\viole\source\repos\Integer Operations\bin\Debug\netcoreapp3.1\Integer Operations.pdb
+C:\Users\viole\source\repos\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfo.cs
+C:\Users\viole\source\repos\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.dll
+C:\Users\viole\source\repos\Integer Operations\obj\Debug\netcoreapp3.1\Integer Operations.pdb

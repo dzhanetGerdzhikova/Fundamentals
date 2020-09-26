@@ -1,0 +1,24 @@
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.exe
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.deps.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfo.cs
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.csprojAssemblyReference.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.exe
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.deps.json
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.json
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.runtimeconfig.dev.json
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.csprojAssemblyReference.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfoInputs.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.AssemblyInfo.cs
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.csproj.CoreCompileInputs.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.dll
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.pdb
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.1\Strong number.genruntimeconfig.cache

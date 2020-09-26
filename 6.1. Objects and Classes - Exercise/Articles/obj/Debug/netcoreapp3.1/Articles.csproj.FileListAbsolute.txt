@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\viole\source\repos\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\viole\source\repos\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\viole\source\repos\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\viole\source\repos\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\viole\source\repos\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\viole\source\repos\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\viole\source\repos\Articles\obj\Debug\netcoreapp3.1\Articles.pdb

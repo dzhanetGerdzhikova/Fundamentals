@@ -1,0 +1,24 @@
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.exe
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.pdb
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.exe
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.dll
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\bin\Debug\netcoreapp3.1\Division.pdb
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.dll
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\viole\Desktop\C# Fundamentals\1.1 Fundamentals - Basic Syntax, Conditional Statements and Loops - Exercise\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache

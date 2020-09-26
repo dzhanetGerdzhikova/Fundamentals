@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Extract File\bin\Debug\netcoreapp3.1\Extract File.exe
+C:\Users\viole\source\repos\Extract File\bin\Debug\netcoreapp3.1\Extract File.deps.json
+C:\Users\viole\source\repos\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.json
+C:\Users\viole\source\repos\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Extract File\bin\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\viole\source\repos\Extract File\bin\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\viole\source\repos\Extract File\obj\Debug\netcoreapp3.1\Extract File.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfo.cs
+C:\Users\viole\source\repos\Extract File\obj\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\viole\source\repos\Extract File\obj\Debug\netcoreapp3.1\Extract File.pdb

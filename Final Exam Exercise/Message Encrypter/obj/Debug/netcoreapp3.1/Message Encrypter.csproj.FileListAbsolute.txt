@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.exe
+C:\Users\viole\source\repos\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.deps.json
+C:\Users\viole\source\repos\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.runtimeconfig.json
+C:\Users\viole\source\repos\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.dll
+C:\Users\viole\source\repos\Message Encrypter\bin\Debug\netcoreapp3.1\Message Encrypter.pdb
+C:\Users\viole\source\repos\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.AssemblyInfo.cs
+C:\Users\viole\source\repos\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.dll
+C:\Users\viole\source\repos\Message Encrypter\obj\Debug\netcoreapp3.1\Message Encrypter.pdb

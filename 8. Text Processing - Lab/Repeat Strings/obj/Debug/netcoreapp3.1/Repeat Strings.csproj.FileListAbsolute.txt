@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.exe
+C:\Users\viole\source\repos\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.deps.json
+C:\Users\viole\source\repos\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.runtimeconfig.json
+C:\Users\viole\source\repos\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.dll
+C:\Users\viole\source\repos\Repeat Strings\bin\Debug\netcoreapp3.1\Repeat Strings.pdb
+C:\Users\viole\source\repos\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.AssemblyInfo.cs
+C:\Users\viole\source\repos\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.dll
+C:\Users\viole\source\repos\Repeat Strings\obj\Debug\netcoreapp3.1\Repeat Strings.pdb

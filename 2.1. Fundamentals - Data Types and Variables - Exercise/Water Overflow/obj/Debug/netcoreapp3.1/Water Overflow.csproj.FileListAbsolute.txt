@@ -1,0 +1,10 @@
+C:\Users\viole\source\repos\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.exe
+C:\Users\viole\source\repos\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.deps.json
+C:\Users\viole\source\repos\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.json
+C:\Users\viole\source\repos\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.dll
+C:\Users\viole\source\repos\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.pdb
+C:\Users\viole\source\repos\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfo.cs
+C:\Users\viole\source\repos\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.dll
+C:\Users\viole\source\repos\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.pdb

@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Kamino Factory\bin\Debug\netcoreapp3.1\Kamino Factory.exe
+C:\Users\viole\source\repos\Kamino Factory\bin\Debug\netcoreapp3.1\Kamino Factory.deps.json
+C:\Users\viole\source\repos\Kamino Factory\bin\Debug\netcoreapp3.1\Kamino Factory.runtimeconfig.json
+C:\Users\viole\source\repos\Kamino Factory\bin\Debug\netcoreapp3.1\Kamino Factory.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Kamino Factory\bin\Debug\netcoreapp3.1\Kamino Factory.dll
+C:\Users\viole\source\repos\Kamino Factory\bin\Debug\netcoreapp3.1\Kamino Factory.pdb
+C:\Users\viole\source\repos\Kamino Factory\obj\Debug\netcoreapp3.1\Kamino Factory.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Kamino Factory\obj\Debug\netcoreapp3.1\Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Kamino Factory\obj\Debug\netcoreapp3.1\Kamino Factory.AssemblyInfo.cs
+C:\Users\viole\source\repos\Kamino Factory\obj\Debug\netcoreapp3.1\Kamino Factory.dll
+C:\Users\viole\source\repos\Kamino Factory\obj\Debug\netcoreapp3.1\Kamino Factory.pdb

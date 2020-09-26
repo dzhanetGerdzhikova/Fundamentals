@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Practice Sessions\bin\Debug\netcoreapp3.1\Practice Sessions.exe
+C:\Users\viole\source\repos\Practice Sessions\bin\Debug\netcoreapp3.1\Practice Sessions.deps.json
+C:\Users\viole\source\repos\Practice Sessions\bin\Debug\netcoreapp3.1\Practice Sessions.runtimeconfig.json
+C:\Users\viole\source\repos\Practice Sessions\bin\Debug\netcoreapp3.1\Practice Sessions.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Practice Sessions\bin\Debug\netcoreapp3.1\Practice Sessions.dll
+C:\Users\viole\source\repos\Practice Sessions\bin\Debug\netcoreapp3.1\Practice Sessions.pdb
+C:\Users\viole\source\repos\Practice Sessions\obj\Debug\netcoreapp3.1\Practice Sessions.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Practice Sessions\obj\Debug\netcoreapp3.1\Practice Sessions.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Practice Sessions\obj\Debug\netcoreapp3.1\Practice Sessions.AssemblyInfo.cs
+C:\Users\viole\source\repos\Practice Sessions\obj\Debug\netcoreapp3.1\Practice Sessions.dll
+C:\Users\viole\source\repos\Practice Sessions\obj\Debug\netcoreapp3.1\Practice Sessions.pdb

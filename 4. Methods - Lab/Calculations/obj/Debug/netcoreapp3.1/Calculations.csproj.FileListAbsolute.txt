@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\viole\source\repos\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\viole\source\repos\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\viole\source\repos\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\viole\source\repos\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\viole\source\repos\Calculations\obj\Debug\netcoreapp3.1\Calculations.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\viole\source\repos\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\viole\source\repos\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb

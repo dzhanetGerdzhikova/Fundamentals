@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.AssemblyInfo.cs
+C:\Users\viole\source\repos\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.exe
+C:\Users\viole\source\repos\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.deps.json
+C:\Users\viole\source\repos\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.runtimeconfig.json
+C:\Users\viole\source\repos\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.dll
+C:\Users\viole\source\repos\Characters in Range\bin\Debug\netcoreapp3.1\Characters in Range.pdb
+C:\Users\viole\source\repos\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.dll
+C:\Users\viole\source\repos\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.pdb
+C:\Users\viole\source\repos\Characters in Range\obj\Debug\netcoreapp3.1\Characters in Range.csprojAssemblyReference.cache

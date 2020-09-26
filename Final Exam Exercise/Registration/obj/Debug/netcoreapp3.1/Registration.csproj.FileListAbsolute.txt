@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Registration\bin\Debug\netcoreapp3.1\Registration.exe
+C:\Users\viole\source\repos\Registration\bin\Debug\netcoreapp3.1\Registration.deps.json
+C:\Users\viole\source\repos\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.json
+C:\Users\viole\source\repos\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Registration\bin\Debug\netcoreapp3.1\Registration.dll
+C:\Users\viole\source\repos\Registration\bin\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\viole\source\repos\Registration\obj\Debug\netcoreapp3.1\Registration.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfo.cs
+C:\Users\viole\source\repos\Registration\obj\Debug\netcoreapp3.1\Registration.dll
+C:\Users\viole\source\repos\Registration\obj\Debug\netcoreapp3.1\Registration.pdb

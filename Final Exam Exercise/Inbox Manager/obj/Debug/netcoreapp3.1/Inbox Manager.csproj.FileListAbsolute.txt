@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.exe
+C:\Users\viole\source\repos\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.deps.json
+C:\Users\viole\source\repos\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.runtimeconfig.json
+C:\Users\viole\source\repos\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.dll
+C:\Users\viole\source\repos\Inbox Manager\bin\Debug\netcoreapp3.1\Inbox Manager.pdb
+C:\Users\viole\source\repos\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.AssemblyInfo.cs
+C:\Users\viole\source\repos\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.dll
+C:\Users\viole\source\repos\Inbox Manager\obj\Debug\netcoreapp3.1\Inbox Manager.pdb

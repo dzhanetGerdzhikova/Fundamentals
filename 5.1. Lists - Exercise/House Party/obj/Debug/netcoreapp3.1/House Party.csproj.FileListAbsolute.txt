@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\House Party\bin\Debug\netcoreapp3.1\House Party.exe
+C:\Users\viole\source\repos\House Party\bin\Debug\netcoreapp3.1\House Party.deps.json
+C:\Users\viole\source\repos\House Party\bin\Debug\netcoreapp3.1\House Party.runtimeconfig.json
+C:\Users\viole\source\repos\House Party\bin\Debug\netcoreapp3.1\House Party.runtimeconfig.dev.json
+C:\Users\viole\source\repos\House Party\bin\Debug\netcoreapp3.1\House Party.dll
+C:\Users\viole\source\repos\House Party\bin\Debug\netcoreapp3.1\House Party.pdb
+C:\Users\viole\source\repos\House Party\obj\Debug\netcoreapp3.1\House Party.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\House Party\obj\Debug\netcoreapp3.1\House Party.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\House Party\obj\Debug\netcoreapp3.1\House Party.AssemblyInfo.cs
+C:\Users\viole\source\repos\House Party\obj\Debug\netcoreapp3.1\House Party.dll
+C:\Users\viole\source\repos\House Party\obj\Debug\netcoreapp3.1\House Party.pdb

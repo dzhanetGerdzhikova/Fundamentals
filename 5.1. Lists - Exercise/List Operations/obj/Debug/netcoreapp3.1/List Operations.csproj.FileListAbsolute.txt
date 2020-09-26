@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\List Operations\bin\Debug\netcoreapp3.1\List Operations.exe
+C:\Users\viole\source\repos\List Operations\bin\Debug\netcoreapp3.1\List Operations.deps.json
+C:\Users\viole\source\repos\List Operations\bin\Debug\netcoreapp3.1\List Operations.runtimeconfig.json
+C:\Users\viole\source\repos\List Operations\bin\Debug\netcoreapp3.1\List Operations.runtimeconfig.dev.json
+C:\Users\viole\source\repos\List Operations\bin\Debug\netcoreapp3.1\List Operations.dll
+C:\Users\viole\source\repos\List Operations\bin\Debug\netcoreapp3.1\List Operations.pdb
+C:\Users\viole\source\repos\List Operations\obj\Debug\netcoreapp3.1\List Operations.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\List Operations\obj\Debug\netcoreapp3.1\List Operations.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\List Operations\obj\Debug\netcoreapp3.1\List Operations.AssemblyInfo.cs
+C:\Users\viole\source\repos\List Operations\obj\Debug\netcoreapp3.1\List Operations.dll
+C:\Users\viole\source\repos\List Operations\obj\Debug\netcoreapp3.1\List Operations.pdb

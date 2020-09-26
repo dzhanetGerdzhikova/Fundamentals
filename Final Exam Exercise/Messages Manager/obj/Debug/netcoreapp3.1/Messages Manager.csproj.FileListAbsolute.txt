@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Messages Manager\bin\Debug\netcoreapp3.1\Messages Manager.exe
+C:\Users\viole\source\repos\Messages Manager\bin\Debug\netcoreapp3.1\Messages Manager.deps.json
+C:\Users\viole\source\repos\Messages Manager\bin\Debug\netcoreapp3.1\Messages Manager.runtimeconfig.json
+C:\Users\viole\source\repos\Messages Manager\bin\Debug\netcoreapp3.1\Messages Manager.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Messages Manager\bin\Debug\netcoreapp3.1\Messages Manager.dll
+C:\Users\viole\source\repos\Messages Manager\bin\Debug\netcoreapp3.1\Messages Manager.pdb
+C:\Users\viole\source\repos\Messages Manager\obj\Debug\netcoreapp3.1\Messages Manager.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Messages Manager\obj\Debug\netcoreapp3.1\Messages Manager.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Messages Manager\obj\Debug\netcoreapp3.1\Messages Manager.AssemblyInfo.cs
+C:\Users\viole\source\repos\Messages Manager\obj\Debug\netcoreapp3.1\Messages Manager.dll
+C:\Users\viole\source\repos\Messages Manager\obj\Debug\netcoreapp3.1\Messages Manager.pdb

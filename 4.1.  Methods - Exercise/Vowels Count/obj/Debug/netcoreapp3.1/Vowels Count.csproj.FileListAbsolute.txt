@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.exe
+C:\Users\viole\source\repos\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.deps.json
+C:\Users\viole\source\repos\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.json
+C:\Users\viole\source\repos\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.dll
+C:\Users\viole\source\repos\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.pdb
+C:\Users\viole\source\repos\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfo.cs
+C:\Users\viole\source\repos\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.dll
+C:\Users\viole\source\repos\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.pdb

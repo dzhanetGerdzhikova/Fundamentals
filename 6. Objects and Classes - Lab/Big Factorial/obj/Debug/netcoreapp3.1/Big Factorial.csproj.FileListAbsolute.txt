@@ -1,0 +1,10 @@
+C:\Users\viole\source\repos\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.exe
+C:\Users\viole\source\repos\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.deps.json
+C:\Users\viole\source\repos\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.json
+C:\Users\viole\source\repos\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\viole\source\repos\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\viole\source\repos\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfo.cs
+C:\Users\viole\source\repos\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\viole\source\repos\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.pdb

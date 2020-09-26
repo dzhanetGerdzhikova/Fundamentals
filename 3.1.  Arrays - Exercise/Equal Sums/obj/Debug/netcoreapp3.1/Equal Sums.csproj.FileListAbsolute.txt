@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.exe
+C:\Users\viole\source\repos\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.deps.json
+C:\Users\viole\source\repos\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.runtimeconfig.json
+C:\Users\viole\source\repos\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.dll
+C:\Users\viole\source\repos\Equal Sums\bin\Debug\netcoreapp3.1\Equal Sums.pdb
+C:\Users\viole\source\repos\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.AssemblyInfo.cs
+C:\Users\viole\source\repos\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.dll
+C:\Users\viole\source\repos\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.pdb
+C:\Users\viole\source\repos\Equal Sums\obj\Debug\netcoreapp3.1\Equal Sums.csprojAssemblyReference.cache

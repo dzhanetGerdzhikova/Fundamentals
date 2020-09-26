@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Activation Keys\bin\Debug\netcoreapp3.1\Activation Keys.exe
+C:\Users\viole\source\repos\Activation Keys\bin\Debug\netcoreapp3.1\Activation Keys.deps.json
+C:\Users\viole\source\repos\Activation Keys\bin\Debug\netcoreapp3.1\Activation Keys.runtimeconfig.json
+C:\Users\viole\source\repos\Activation Keys\bin\Debug\netcoreapp3.1\Activation Keys.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Activation Keys\bin\Debug\netcoreapp3.1\Activation Keys.dll
+C:\Users\viole\source\repos\Activation Keys\bin\Debug\netcoreapp3.1\Activation Keys.pdb
+C:\Users\viole\source\repos\Activation Keys\obj\Debug\netcoreapp3.1\Activation Keys.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Activation Keys\obj\Debug\netcoreapp3.1\Activation Keys.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Activation Keys\obj\Debug\netcoreapp3.1\Activation Keys.AssemblyInfo.cs
+C:\Users\viole\source\repos\Activation Keys\obj\Debug\netcoreapp3.1\Activation Keys.dll
+C:\Users\viole\source\repos\Activation Keys\obj\Debug\netcoreapp3.1\Activation Keys.pdb

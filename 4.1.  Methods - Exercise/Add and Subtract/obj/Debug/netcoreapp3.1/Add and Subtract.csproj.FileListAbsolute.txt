@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.exe
+C:\Users\viole\source\repos\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.deps.json
+C:\Users\viole\source\repos\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.json
+C:\Users\viole\source\repos\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\viole\source\repos\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\viole\source\repos\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfo.cs
+C:\Users\viole\source\repos\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\viole\source\repos\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.pdb

@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.exe
+C:\Users\viole\source\repos\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.deps.json
+C:\Users\viole\source\repos\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.json
+C:\Users\viole\source\repos\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\viole\source\repos\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\viole\source\repos\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfo.cs
+C:\Users\viole\source\repos\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\viole\source\repos\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.pdb

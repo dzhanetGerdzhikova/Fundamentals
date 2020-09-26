@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.exe
+C:\Users\viole\source\repos\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.deps.json
+C:\Users\viole\source\repos\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.runtimeconfig.json
+C:\Users\viole\source\repos\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.dll
+C:\Users\viole\source\repos\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.pdb
+C:\Users\viole\source\repos\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.AssemblyInfo.cs
+C:\Users\viole\source\repos\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.dll
+C:\Users\viole\source\repos\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.pdb
+C:\Users\viole\source\repos\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.csprojAssemblyReference.cache

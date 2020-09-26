@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.exe
+C:\Users\viole\source\repos\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.deps.json
+C:\Users\viole\source\repos\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.runtimeconfig.json
+C:\Users\viole\source\repos\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.dll
+C:\Users\viole\source\repos\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.pdb
+C:\Users\viole\source\repos\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.AssemblyInfo.cs
+C:\Users\viole\source\repos\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.dll
+C:\Users\viole\source\repos\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.pdb

@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.exe
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.deps.json
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.dll
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.pdb
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.dll
+C:\Users\viole\source\repos\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.pdb

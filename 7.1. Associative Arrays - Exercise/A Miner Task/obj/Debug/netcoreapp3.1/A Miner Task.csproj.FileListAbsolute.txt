@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\A Miner Task\bin\Debug\netcoreapp3.1\A Miner Task.exe
+C:\Users\viole\source\repos\A Miner Task\bin\Debug\netcoreapp3.1\A Miner Task.deps.json
+C:\Users\viole\source\repos\A Miner Task\bin\Debug\netcoreapp3.1\A Miner Task.runtimeconfig.json
+C:\Users\viole\source\repos\A Miner Task\bin\Debug\netcoreapp3.1\A Miner Task.runtimeconfig.dev.json
+C:\Users\viole\source\repos\A Miner Task\bin\Debug\netcoreapp3.1\A Miner Task.dll
+C:\Users\viole\source\repos\A Miner Task\bin\Debug\netcoreapp3.1\A Miner Task.pdb
+C:\Users\viole\source\repos\A Miner Task\obj\Debug\netcoreapp3.1\A Miner Task.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\A Miner Task\obj\Debug\netcoreapp3.1\A Miner Task.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\A Miner Task\obj\Debug\netcoreapp3.1\A Miner Task.AssemblyInfo.cs
+C:\Users\viole\source\repos\A Miner Task\obj\Debug\netcoreapp3.1\A Miner Task.dll
+C:\Users\viole\source\repos\A Miner Task\obj\Debug\netcoreapp3.1\A Miner Task.pdb

@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.exe
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.deps.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\bin\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.AssemblyInfo.cs
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.dll
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.pdb
+C:\Users\viole\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\Month Printer\obj\Debug\netcoreapp3.1\Month Printer.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\viole\source\repos\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.exe
+C:\Users\viole\source\repos\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.deps.json
+C:\Users\viole\source\repos\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.json
+C:\Users\viole\source\repos\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\viole\source\repos\Email Validator\bin\Debug\netcoreapp3.1\Email Validator.pdb
+C:\Users\viole\source\repos\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.AssemblyInfo.cs
+C:\Users\viole\source\repos\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.dll
+C:\Users\viole\source\repos\Email Validator\obj\Debug\netcoreapp3.1\Email Validator.pdb

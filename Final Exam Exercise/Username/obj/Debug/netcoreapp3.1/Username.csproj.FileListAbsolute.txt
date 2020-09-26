@@ -1,0 +1,11 @@
+C:\Users\viole\source\repos\Username\bin\Debug\netcoreapp3.1\Username.exe
+C:\Users\viole\source\repos\Username\bin\Debug\netcoreapp3.1\Username.deps.json
+C:\Users\viole\source\repos\Username\bin\Debug\netcoreapp3.1\Username.runtimeconfig.json
+C:\Users\viole\source\repos\Username\bin\Debug\netcoreapp3.1\Username.runtimeconfig.dev.json
+C:\Users\viole\source\repos\Username\bin\Debug\netcoreapp3.1\Username.dll
+C:\Users\viole\source\repos\Username\bin\Debug\netcoreapp3.1\Username.pdb
+C:\Users\viole\source\repos\Username\obj\Debug\netcoreapp3.1\Username.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\Username\obj\Debug\netcoreapp3.1\Username.AssemblyInfoInputs.cache
+C:\Users\viole\source\repos\Username\obj\Debug\netcoreapp3.1\Username.AssemblyInfo.cs
+C:\Users\viole\source\repos\Username\obj\Debug\netcoreapp3.1\Username.dll
+C:\Users\viole\source\repos\Username\obj\Debug\netcoreapp3.1\Username.pdb
